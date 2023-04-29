@@ -1,0 +1,481 @@
+﻿id,Estación
+1,Río Sena - Río Balsas
+2,Río Guadalquivir - Río Nazas
+3,Reforma - Insurgentes
+4,Río Nilo - Río Pánuco
+5,Río Pánuco - Río Tíber
+6,Río Pánuco - Río Sena
+7,Río Elba - Río Lerma
+8,Reforma - General Prim
+9,Río Guadalquivir - Río Lerma
+10,Reforma - Ramírez
+11,Río Amazonas - Río Lerma
+12,Río Lerma - Villalongín
+13,Reforma - Río Mississippi
+14,Reforma - Río de la Plata
+15,Reforma - Río Mississippi
+16,Reforma - Río Tíber
+17,Reforma - Río Tíber
+18,Reforma - Río Rhin
+19,Reforma - Río Rhin
+20,Reforma - Río Támesis
+21,Reforma - Dublín
+22,Reforma - Manchester
+23,Reforma - Praga
+24,Reforma - Varsovia
+25,Reforma - Estocolmo
+26,Reforma - Versalles
+27,Reforma - Havre
+28,Toledo - Tokio
+29,Reforma - Bucareli
+30,Hamburgo - Génova
+31,Hamburgo - Insurgentes
+32,Londres - Sevilla
+33,Londres - Florencia
+34,Liverpool - Génova
+35,Liverpool - Génova
+36,Puebla - Veracruz
+37,Guadalajara - Puebla
+38,Cozumel - Puebla
+39,Puebla - Medellín
+40,Oaxaca - Puebla
+41,Reforma - De la República
+42,Sinaloa - Valladolid
+43,Juárez - Dr. Mora
+44,Durango - Veracruz
+45,Durango - Sonora
+46,Durango - Salamanca
+47,Plaza Madrid - Medellín
+48,Independencia - Azueta
+49,Mazatlán - Juan de la Barrera
+50,Cuernavaca - Veracruz
+51,Colima - Oaxaca
+52,Hidalgo - Trujano
+53,Fernando Montes de Oca - Tula
+54,Parque España - Sonora
+55,5 de Mayo - Bolívar
+56,Álvaro Obregón - Medellín
+57,Cuernavaca - Juan Escutia
+58,Parque España - Juan de la Barrera
+59,Popocatépetl - Ámsterdam
+60,Mazatlán - Fernando Montes de Oca
+61,Avenida México - Sonora
+62,Fernando Montes de Oca - Amatlán
+63,Nuevo León - Laredo
+64,Sonora - Ámsterdam
+65,Marconi - Tacuba
+66,Mazatlán - Francisco Márquez
+67,Vicente Suárez - Michoacán
+68,Tamaulipas - Michoacán
+69,Michoacán - Ámsterdam
+70,Parque México - Michoacán
+71,Ámsterdam - Michoacán
+72,Mazatlán - Alfonso Reyes
+73,Campeche - Tamaulipas
+74,Nuevo León - Ozuluama
+75,Alfonso Reyes - Atlixco
+76,Chilpancingo - Campeche
+77,Choapan - Tamaulipas
+78,Benjamín Hill - Tamaulipas
+79,Saltillo - Alfonso Reyes
+80,Nuevo León - Aguascalientes
+81,Aguascalientes - Insurgentes
+82,Independencia - Marroquí
+83,Alfonso Reyes - Nuevo León
+84,Chilpancingo - Tlaxcala
+85,José Rosas Moreno - Sullivan
+86,Sullivan - Insurgentes
+87,Gante - Venustiano Carranza
+88,2da cerrada de 5 de Mayo - Palma
+89,República de Guatemala - Monte de Piedad
+90,José María Pino Suárez - Corregidora
+91,República de Cuba - Allende
+92,San Ildefonso - República de Argentina
+93,Palma Norte - República de Cuba
+94,Lic. Primo de Verdad - Moneda
+95,20 de Noviembre - Venustiano Carranza
+96,López - Ayuntamiento
+97,República de Salvador - Pino Suárez
+98,Emilio Dondé - Av. Balderas
+99,Ernesto Pugibet - Luis Moya
+100,20 de Noviembre - Mesones
+101,1er. Callejón de Mesones - Mesones
+102,Echeveste - Bolívar
+103,Joaquín Velázquez de León - García Icazbalceta
+104,San Jerónimo - Isabel la Católica
+105,San Jerónimo - 5 de Febrero
+106,San Jerónimo - José María Pino Suarez
+107,Tolsá - Balderas
+108,Tolsá - Balderas
+109,Nezahualcóyotl - Isabel la Católica
+110,Dr. Valenzuela - Dr. Río de la Loza
+111,Guillermo Prieto - Joaquín Velázquez de León
+112,Av. Morelos - Abraham González
+113,General Prim - Versalles
+114,Lucerna - Abraham González
+115,Roma - Dinamarca
+116,Londres - Roma
+117,Londres - Nápoles
+118,Liverpool - Dinamarca
+119,Turín - Abraham González
+120,Marsella - Nápoles
+121,Niza - Chapultepec
+122,José María Vértiz - Av. Dr. Río de la Loza
+123,Claudio Bernard - Dr. Lavista
+124,Claudio Bernard - Dr. Liceaga
+125,Morelia - Circular de Morelia
+126,Jalapa - Puebla
+127,Puebla - Mérida
+128,Orizaba - Río de Janeiro
+129,Tonalá - Durango
+130,Mérida - Durango
+131,Colima - Jalapa
+132,Colima - Frontera
+133,Colima - Morelia
+134,Álvaro Obregón - Orizaba
+135,Álvaro Obregón - Morelia
+136,Álvaro Obregón - Tonalá
+137,Álvaro Obregón - Mérida
+138,Guanajuato - Frontera
+139,Tonalá - Guanajuato
+140,Mérida - Zacatecas
+141,Zacatecas - Luis Cabrera
+142,San Luis Potosí - Eje 2 Pte. Monterrey
+143,Córdoba - San Luis Potosí
+144,Frontera - San Luis Potosí
+145,Yucatán - Chiapas
+146,Coahuila - Manzanillo
+147,Coahuila - Orizaba
+148,Coahuila - Av. Cuauhtémoc
+149,Mérida - Antonio M. Anza
+150,Campeche - Medellín
+151,Campeche - Tonalá
+152,Tlacotalpan - Campeche
+153,Manzanillo - Tlaxcala
+154,Tuxpan - Tlaxcala
+155,Jalapa - Tlaxcala
+156,Tepic - Ario
+157,Tepic - Tlacotalpan
+158,Huatabampo - Eje 1 Pte. Av. Cuauhtémoc
+159,Huatabampo - Eje 1 Pte. Av. Cuauhtémoc
+160,Alfonso Herrera - Gabino Barreda
+161,Quintana Roo - Manzanillo
+162,Tehuantepec - Medellín
+163,Toluca - Bajío
+164,Bajío - Tlacotalpan
+165,Bajío - Eje 2 Pte. Monterrey
+166,Progreso - Cda. Antonio Maceo
+167,General Salvador Alvarado - Progreso
+168,Comercio - Progreso
+169,Prosperidad - Progreso
+170,Observatorio Oriente - Revolución
+171,Comercio - José Martí
+172,General Francisco Murguía - José Martí
+173,Minería - José Martí
+174,Joaquín García Icazbalceta - Ignacio Manuel Altamirano
+175,Mutualismo - José Martí
+176,Av. Jesús García - Luis Donaldo Colosio
+177,Benjamín Hill - Carlos Zetina
+178,Tamaulipas - Francisco Murguía
+179,Nuevo León - Quintana Roo
+180,Quintana Roo - Villahermosa
+181,Benjamín Franklin - Ometusco
+182,Progreso - Astrónomos
+183,Gabino Barreda - Guillermo Prieto
+184,General Gómez Pedraza - Gobernador Tiburcio Montiel
+185,General Antonio León - General Pedro Antonio de los Santos
+186,Gob. Gregorio V. Gelati - Gral. Francisco Molinos del Campo
+187,General Cano - Gobernador Gregorio V. Gelati
+188,Gobernador Melchor Múzquiz - Gobernador Ignacio Esteva
+189,Gobernador Rafael Rebollar - Gobernador José Ceballos
+190,Gobernador Ignacio Esteva - Maestro José Vasconcelos
+191,Gobernador Rafael Rebollar - Gobernado Vicente Eguía
+192,Rubén Darío - Reforma
+193,Rubén Darío - Reforma
+194,Circuito Mahatma Gandhi - Reforma
+195,Reforma - Mahatma Gandhi
+196,Lago Tanganica - Ejército Nacional
+197,Miguel de Cervantes Saavedra - Ferrocarril de Cuernavaca
+198,Sócrates - Ejército Nacional
+199,Anatole France - Ejército Nacional
+200,Emerson - Ejército Nacional
+201,Lope de Vega - Ejército Nacional
+202,Calderón de la Barca - Homero
+203,Tennyson - Homero
+204,Temístocles - Homero
+205,Taine - Homero
+206,Moliere - Homero
+207,Torquato Tasso - Homero
+208,Hesíodo - Lamartine
+209,Solón - Horacio
+210,Eugenio Sue - Horacio
+211,Isaac Newton - Horacio
+212,Hegel - Horacio
+213,Solón - Cicerón
+214,Platón - Horacio
+215,Edgar Alan Poe - Horacio
+216,Alejandro Dumas - Horacio
+217,Euler - Av. Horacio
+218,Hegel - Ibarbourou
+219,Esopo - Ferrocarril de Cuernavaca
+220,Plinio - Presidente Masaryk
+221,Emilio Castelar - Presidente Masaryk
+222,Alejandro Dumas - Presidente Masaryk
+223,Isaac Newton - Presidente Masaryk
+224,Hegel - Presidente Masaryk
+225,Petrarca - Presidente Masaryk
+226,Wallon - Presidente Masaryk
+227,Campos Elíseos - Periférico
+228,Campos Elíseos - La Fontaine
+229,Carlos Dickens - Séneca
+230,Edgar Allan Poe - Carlos Dickens
+231,Isaac Newton - Aristóteles
+232,Taine - Rubén Darío
+233,Julio Verne - Luis G. Urbina
+234,Tres Picos - Arquímedes
+235,Campos Elíseos - Moliere
+236,Campos Elíseos - Moliere
+237,Andrés Bello - George Eliot
+238,Andrés Bello - George Eliot
+239,Rincón del Bosque - Rubén Darío
+240,Ejército Nacional - Ferrocarril de Cuernavaca
+241,Ejército Nacional - Juan Vázquez de la Mella
+242,Miguel de Cervantes Saavedra - Pról. Moliere
+243,Miguel de Cervantes Saavedra - Lago Filt
+244,Miguel de Cervantes Saavedra - Lago Victoria
+245,Lago Onega - Ejército Nacional
+246,Leibnitz - Thiers
+247,Herschel - Rousseau
+248,Shakespeare - Lafayette
+249,Shakespeare - Darwin
+250,Darwin - Mariano Escobedo
+251,Goethe - Darwin
+252,Víctor Hugo - Shakespeare
+253,Dante - Tolstoi
+254,Alfonso Herrera - Miguel Schultz
+255,José Rosas Moreno - Guillermo Prieto
+256,Gómez Farías - Sadi Carnot
+257,Manuel María Conteras - Villalongín
+258,Circuito Interior - Juan Escutia
+259,Tomás Alva Edison - Ponciano Arriaga
+260,Juárez - Balderas
+261,Reforma - Río de la Plata
+262,República de Cuba - República de Brasil
+263,Sadi Carnot - Gómez Farías
+264,Héroes Ferrocarrileros - Jesús García
+265,Mina - Jesús García
+266,Jesús García - Carlos J. Meneses
+267,Jesús García - Carlos J. Meneses
+268,Luis Donaldo Colosio - Jesús García
+269,Luis Donaldo Colosio - Aldama
+270,De la República - Ponciano Arriaga
+271,Jesús García - Carlos J. Meneses
+272,Jesús García - Carlos J. Meneses
+273,Luis Donaldo Colosio - Jesús García
+274,Luis Donaldo Colosio - Insurgentes Norte
+275,Héroes Ferrocarrileros - Jesús García
+276,Anaxágoras - Obrero Mundial
+277,Prolongación Tonalá - Obrero Mundial
+278,Mier y Pesado - Obrero Mundial
+279,La Morena - Providencia
+280,Anaxágoras - Obrero Mundial
+281,Pitágoras - La Morena
+282,La Morena - Eje 2 Poniente Gabriel Mancera
+283,Av. Coyoacán - Rafael Dondé
+284,Dakota - Vermont
+285,12 de Octubre - Minería
+286,13 de Septiembre - Avenida Patriotismo
+287,13 de Septiembre - Puente de la Morena
+288,11 de Abril - Avenida 2
+289,Chicago - Yosemite
+290,Yosemite - Colorado
+291,Magdalena - División del Norte
+292,Adolfo Prieto - Eje 4 Sur Xola
+293,Mier y Pesado - Eje 4 Sur Xola
+294,Nicolás San Juan - Eje 4 Sur Xola
+295,Anaxágoras - Eje 4 Sur Xola
+296,Diagonal San Antonio - Enrique Rébsamen
+297,Diagonal San Antonio - Enrique Rébsamen
+298,Romero de Terreros - Gabriel Mancera
+299,Romero de Terreros - Mier y Pesado
+300,Providencia - Luz Saviñón
+301,Luz Saviñón - Magdalena
+302,Luz Saviñón - Magdalena
+303,Montecito - Av. Insurgentes
+304,Montecito - Dakota
+305,Avenida del Parque - Arizona
+306,Dakota - Filadelfia
+307,Minnesota - Dakota
+308,Nueva York - Arizona
+309,Pensilvania - Arizona
+310,Calle 1 - Patriotismo
+311,Calle 5 - Avenida Revolución
+312,Avenida 2 - Calle 7
+313,Pensilvania - Oklahoma
+314,Nueva York - Louisiana
+315,Alabama - Montana
+316,San Francisco - Concepción Beistegui
+317,Avenida Coyoacán - Torres Adalid
+318,Luz Saviñón - Amores
+319,Diagonal San Antonio - Luz Saviñón
+320,Enrique Rébsamen - Luz Saviñón
+321,Torres Adalid - Anaxágoras
+322,Heriberto Frías - Concepción Beistegui
+323,Concepción Beistegui - Gabriel Mancera
+324,Amores - Avenida Eugenia
+325,Providencia - Avenida Del Valle
+326,Eugenia - Nebraska
+327,Georgia - Pensilvania
+328,Avenida 1 - Calle 7
+329,Calle 13 - Avenida 1
+330,Calle 15 - Avenida Patriotismo
+331,Avenida 2 - Calle 17
+332,Calle 27 - Avenida 3
+333,Georgia - Carolina
+334,Nueva York - Insurgentes
+335,Magdalena - Ameyalco
+336,San Borja - Cda. Dr. J. Bartolache
+337,San Borja - Martín Mendalde
+338,Nicolás San Juan - San Borja
+339,Enrique Rébsamen - Avenida Eugenia
+340,Anaxágoras - Avenida Eugenia
+341,San Borja - Avenida Cuauhtémoc
+342,Anaxágoras - Ángel Urraza Eje 6 Sur
+343,Enrique Rébsamen - División del Norte
+344,Heriberto Frías - Ángel Urraza Eje 6 Sur
+345,Patricio Sanz - Miraflores
+346,San Francisco - Santa Margarita
+347,Pensilvania - Maximino Ávila Camacho
+348,Indiana - Avenida San Antonio
+349,Augusto Rodin - Avenida San Antonio
+350,José Clemente Orozco - Correggio
+351,Calle 27 - Avenida Revolución
+352,Tintoreto - Giorgione
+353,Carolina - Holbein
+354,Boston - Avenida Insurgentes
+355,California - Sacramento
+356,Matías Romero - Adolfo Prieto
+357,Matías Romero - Amores
+358,Nicolás San Juan - Matías Romero
+359,Matías Romero - Pestalozzi
+360,Heriberto Frías - Matías Romero
+361,Porfirio Díaz - Capulín
+362,Augusto Rodin - Alberto Balderas
+363,Holbein - Paulo Ucello
+364,Botticelli - Cda. de Giorgione
+365,Holbein - Avenida Revolución
+366,Porfirio Díaz - Augusto Rodin
+367,Boston - Augusto Rodin
+368,Porfirio Díaz - Cincinatti y Baltimore
+369,Porfirio Díaz - Avenida Insurgentes
+370,Tlacoquemécatl - Insurgentes
+370,Tlacoquemécatl - Capulín
+372,Dr. Roberto Gayol - Tlacoquemécatl
+373,Pilares - Gabriel Mancera
+374,Pitágoras - Pilares
+375,Tenayuca - División del Norte
+376,Pitágoras - Avenida Universidad
+377,Heriberto Frías - Miguel Laurent
+378,Miguel Laurent - Amores
+379,Dr. Roberto Gayol - Miguel Laurent
+380,Moras - San Lorenzo
+381,San Lorenzo - Manzanas
+382,San Lorenzo - Insurgentes
+383,Luis Carracci - 2da. cda. de Luis Carracci
+384,Empresa - Poussin
+385,Poussin - Empresa
+386,Poussin - Donatello
+387,Cádiz - Empresa
+388,Valencia - Málaga
+389,Santander - Félix Cuevas
+390,Oso - Félix Cuevas
+391,Oso - Félix Cuevas
+392,Patricio Sanz - Félix Cuevas
+393,Adolfo Prieto - Félix Cuevas
+394,Dr. Roberto Gayol - Félix Cuevas
+395,San Lorenzo - Martín Mendalde
+396,Martín Mendalde - Félix Cuevas
+397,San Lorenzo - Gabriel Mancera
+398,Juan Sánchez Azcona - Félix Cuevas
+399,Heriberto Frías - San Lorenzo
+400,San Lorenzo - Heriberto Frías
+401,San Lorenzo - Avenida Cuauhtémoc
+402,Uxmal - Municipio Libre
+403,Uxmal - Municipio Libre
+404,Miguel Laurent - Avenida División del Norte
+405,División del Norte - Municipio Libre
+406,Parroquia - Avenida México Coyoacán
+407,Prolongación Xochicalco - General Emiliano Zapata
+408,Prolongación Petén - General Emiliano Zapata
+409,Azores - División del Norte
+410,Prolongación Tajín - Prolongación Repúblicas
+411,Parroquia - Avenida México-Coyoacán
+412,Parroquia - Avenida Universidad
+413,Parroquia - Avenida Coyoacán
+414,Parroquia - José Ignacio Bartolache
+415,San Francisco - Parroquia
+416,Recreo - Parroquia
+417,Goya - Augusto Rodin
+418,Galicia - Actipan
+419,Actipan - Cádiz
+420,María Luz Bringas - Oso
+421,María Luz Bringas - Oso
+422,Búfalo - José María Rico (Eje 8)
+423,Moras - José María Rico (Eje 8)
+424,Amores - José María Rico (Eje 8)
+425,Nicolás San Juan - Avenida Universidad
+426,Mayorazgo de Solís - Av. Popocatépetl (Eje 8)
+427,Avenida México-Coyoacán - Av. Popocatépetl (Eje 8)
+428,Prolongación Uxmal - Av. Popocatépetl (Eje 8)
+429,Pirineos - Av. Popocatépetl (Eje 8)
+430,Trípoli - Av. Popocatépetl (Eje 8)
+431,Bruno Traven - Paz Montes de Oca
+432,Carrillo Puerto - Avenida México-Coyoacán
+433,José María Olloqui - López Cotilla
+434,José María Olloqui - Amores
+435,Rodríguez Saro - Avenida Coyoacán
+436,Rodríguez Saro - Búfalo
+437,Moras - Comunal
+438,Adolfo Prieto - José María Olloqui
+439,Amores - Avenida Coyoacán
+440,Real de Mayorazgo - Puente Xoco
+441,Puente Xoco - Real de Mayorazgo
+442,Real de Mayorazgo - Avenida México-Coyoacán
+443,Bruno Traven - Golondrinas
+444,General Manuel Rincón - Agustín Gutiérrez
+445,Riff - Avenida Río Churubusco
+446,Riff - Avenida Río Churubusco
+447,Agustín Melgar - Zamora
+448,Dr. Andrade - Arcos de Belén
+449,Acapulco - Puebla
+450,Ramos Arizpe - Av. México Tenochtitlan
+451,Campos Elíseos - Goldsmith
+452,Leibnitz - Ejército Nacional
+453,Pedregal - Teapa
+454,Montes Urales - Monte Pelvoux
+455,Pedregal - Ferrocarril de Cuernavaca
+456,Alpes - Montes Escandinavos
+457,Av. Prado Norte - Explanada
+458,Montes Urales - Volcán
+459,Volcán - Montes Urales
+460,Juan Vázquez de Mella - Homero
+461,Presa Don Martín - Boulevard Miguel de Cervantes Saavedra
+462,Presa Falcón - Presa Danxhó
+463,Lago Andrómaco - Lago Zúrich
+464,Mateo Alemán - Prolongación Moliere
+465,Lago Ginebra - Lago Wetter
+466,Lago Onega - Lago Ladoga
+467,Lago Mayor - Lago Alberto
+468,Lago Xochimilco - Av. Ejército Nacional
+469,Bahía De La Concepción - Bahía de Todos Los Santos
+470,Bahía de las Palmas - Bahía de Todos Los Santos
+471,Bahía de Chachalacas - Bahía de Santa Bárbara
+472,Bahía de Santa Bárbara - Bahía de Ballenas
+473,Bahía del Espíritu Santo - Bahía de Banderas
+474,Bahía de San Hipólito - Bahía del Espíritu Santo
+475,Lago Muritz - Lago Alberto
+476,Lago Como - Laguna de Mayrán
+477,Lago Iseo - Laguna de Mayrán
+478,Laguna de Mayrán - Lago Chalco
+479,Lago Muritz - Av. Marina Nacional
+480,Lago Iseo - Av. Marina Nacional
