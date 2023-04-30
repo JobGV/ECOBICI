@@ -1,4 +1,4 @@
 # ECOBICI
 Análisis del sistema de transporte Ecobici usando teoría de redes
 
-La presentación de resultados se encuentra en el siguiente enlace: [Presentación](https://drive.google.com/file/d/10EybnRT-EVCKZdndJonk9Tp2i-H9DusB/view?usp=sharing)
+La presentación de resultados se encuentra en el siguiente enlace: https://drive.google.com/drive/folders/1vGGF7o9F8YnVj78l1AnHRo5nkWrREmj-?usp=sharing
